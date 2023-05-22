@@ -1,0 +1,106 @@
+Array
+(
+    [LOGIN] => mcart96
+    [EMAIL] => s2323ss3ss@mail.ru
+    [PASSWORD] => $6$bmaMRtubK0YD25iQ$0bz6NOfSmuNyqUt0RlhiT2R4BdmfATtEz2iJ2wTObpXldaNXtUMpupe/QKAIdW7/JZh/eFiBrdOs3G2/xZpaW0
+    [CONFIRM_PASSWORD] => 123123
+    [UF_USER_TYPE] => 11
+    [GROUP_ID] => Array
+        (
+        )
+
+    [CHECKWORD] => c0d56bb3a01e8cf16a4a2a0daa2aa9da
+    [~CHECKWORD_TIME] => now()
+    [ACTIVE] => Y
+    [CONFIRM_CODE] => 
+    [LID] => s1
+    [LANGUAGE_ID] => ru
+    [USER_IP] => 10.0.5.1
+    [USER_HOST] => 10.0.5.1
+    [AUTO_TIME_ZONE] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [PERSONAL_GENDER] => 
+    [ID] => 34
+    [RESULT] => 34
+)
+
+Array
+(
+    [LOGIN] => mcart8563
+    [EMAIL] => ss53s32ss@mail.ru
+    [PASSWORD] => $6$mT9eDOg8TGOTrkXR$/DOwaGE7TJ0bufcL4EG.XloKuf/Dxv67Fgk57HVGCKD/6GTpFkOmC9sNsSnjI.wrJ9m1e.kYVFd1ctUPvX/JQ/
+    [CONFIRM_PASSWORD] => 123123
+    [UF_USER_TYPE] => 11
+    [GROUP_ID] => Array
+        (
+        )
+
+    [CHECKWORD] => 02322ec73a3da1c901a8f26fa1ff996a
+    [~CHECKWORD_TIME] => now()
+    [ACTIVE] => Y
+    [CONFIRM_CODE] => 
+    [LID] => s1
+    [LANGUAGE_ID] => ru
+    [USER_IP] => 10.0.5.1
+    [USER_HOST] => 10.0.5.1
+    [AUTO_TIME_ZONE] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [PERSONAL_GENDER] => 
+    [ID] => 35
+    [RESULT] => 35
+)
+
+Array
+(
+    [LOGIN] => mcart467456
+    [EMAIL] => ss23s3ss@mail.ru
+    [PASSWORD] => $6$TICLpEHjQt4Hu3AA$aid/nK6J71OcFplweM/jC5t2sVVaSz0Fzq8mJ7m0P4akqxUjhNbGjBu58MVfWMe/7HT.h5qnH2B13LWkmhmKa.
+    [CONFIRM_PASSWORD] => 123123
+    [UF_USER_TYPE] => 12
+    [GROUP_ID] => Array
+        (
+        )
+
+    [CHECKWORD] => b6270fedacf7a70afb5147aa7c05157c
+    [~CHECKWORD_TIME] => now()
+    [ACTIVE] => Y
+    [CONFIRM_CODE] => 
+    [LID] => s1
+    [LANGUAGE_ID] => ru
+    [USER_IP] => 10.0.5.1
+    [USER_HOST] => 10.0.5.1
+    [AUTO_TIME_ZONE] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [PERSONAL_GENDER] => 
+    [ID] => 36
+    [RESULT] => 36
+)
+Array
+(
+    [LOGIN] => jdhjkgd
+    [EMAIL] => s23ss3ss@mail.ru
+    [PASSWORD] => $6$rcIzZCmwqLt7h7Df$OwivJtUVARUrdzYJejVSUPRdkXOiRFfXHYTHg4LLYnOk4PWuF7rIt1NInaGtaSK7mOgtzexGrwtBruPpvmj0H1
+    [CONFIRM_PASSWORD] => 123123
+    [UF_USER_TYPE] => 11
+    [GROUP_ID] => Array
+        (
+        )
+
+    [CHECKWORD] => 2f6e2af0728dad2ea0d41184427a9669
+    [~CHECKWORD_TIME] => now()
+    [ACTIVE] => Y
+    [CONFIRM_CODE] => 
+    [LID] => s1
+    [LANGUAGE_ID] => ru
+    [USER_IP] => 10.0.5.1
+    [USER_HOST] => 10.0.5.1
+    [AUTO_TIME_ZONE] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [PERSONAL_GENDER] => 
+    [ID] => 38
+    [RESULT] => 38
+)

@@ -1,6 +1,6 @@
 <? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 $APPLICATION->SetTitle("Главная страница");
-?><?$APPLICATION->IncludeComponent(
+?> <?$APPLICATION->IncludeComponent(
 	"bitrix:news.line",
 	"slider",
 	Array(
@@ -118,7 +118,6 @@ Array(
 		</div>
 	</div>
 </div>
-
 <div class="site-section site-section-sm bg-light">
 	<div class="container">
 		<div class="row mb-5">
